@@ -1,0 +1,53 @@
+    .main{
+         position:absolute;
+         background-color:lightgrey;
+    
+}
+.textview{
+        color:black;
+        background-color:lightgrey;
+        width:46.5vw;
+        height:10vh;
+        font-size:3vw;
+}
+.button{
+        width:11vw;
+        height:8vh;
+        text-align:center;
+        font-size:3vw;
+        background:white;
+        border:none;
+}
+.zero{
+        width:22.9vw;
+        height:8vh;
+        background:white;
+        border:none;
+         font-size:3vw;
+}
+.sign-button{
+        width:11vw;
+        height:8vh;
+        text-align:center;
+        font-size:3vw;
+        color:white;
+        border:none;
+        background-color:#C14444;
+}
+table,tr,td{
+        border:1px solid black;
+        border-collapse:collapse;
+}
+.heading{
+        font-size:4vw;
+        margin:1%;
+        text-align:center;
+        color:white;
+        background-color:black;
+}
+.zero:hover{
+         background-color:orange;   
+}
+.button:hover{
+        background-color:orange;   
+}
